@@ -1,0 +1,5 @@
+MIA_SIMPLE_TOKENIZER_ENC_REGEXP = r'([,.:;?_!"()\']|--|\s)'
+
+MIA_SIMPLE_TOKENIZER_DEC_REGEXP = r'\s+([,.?!"()\'])'
+
+MIA_SIMPLE_TOKENIZER_FILEPATH = 'data/EMEA.txt'
